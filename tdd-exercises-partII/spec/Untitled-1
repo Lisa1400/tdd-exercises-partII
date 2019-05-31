@@ -1,0 +1,3 @@
+it("should take the last value and add it to another value", function(){
+      expect(calculator.add(calculator.last(), 5)).toBe(9.7);
+     })
